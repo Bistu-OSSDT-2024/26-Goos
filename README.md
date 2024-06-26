@@ -19,7 +19,7 @@
 
 ## 👀 效果演示  
 
-【zora-bt的个人空间-哔哩哔哩】 https://b23.tv/Utb6V8B0
+https://github.com/Bistu-OSSDT-2024/26-Goos/blob/%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA/%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA.mp4
 
 
 支持单一聊天和群聊，设置了消息免打扰的会自动略过。目前只支持中文客户端。
