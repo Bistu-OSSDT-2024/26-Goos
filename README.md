@@ -1,4 +1,4 @@
-# AI-Operating-Wechat
+# 年轻人的AI自动回复
 
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GNU-dfd.svg"></a>
