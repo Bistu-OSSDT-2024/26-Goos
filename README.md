@@ -25,7 +25,7 @@ cd AI-Operating-Wechat
 ```
 3. 安装依赖：
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 4. 在config.py中输入阿里通义千问的apikey，可以去[dashscope](https://dashscope.aliyun.com/)获取
 ```
