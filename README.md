@@ -43,9 +43,4 @@ python main.py
 
 ## 📣 致谢
 
-修改自AI-Operating-Wechat，感谢作者的努力。
-
-
-
-
-
+修改自AI-Operating-Wechat，感谢原作者ethanhwang1024。
