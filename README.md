@@ -7,7 +7,7 @@
     <a href=""><img src="https://img.shields.io/badge/os-windows-pink.svg"></a>
 </p>
 
-微信消息太多回不过来？使用AI来自动回复微信！
+语言风趣的AI自动回复工具！
 ## 👀 效果演示  
 
 https://github.com/ethanhwang1024/AI-Operating-Wechat/assets/89822193/3e62bd19-88e7-4dda-b98a-fdd22de0f1a0
