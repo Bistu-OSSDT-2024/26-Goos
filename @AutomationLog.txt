@@ -1,0 +1,1 @@
+2024-06-26 11:48:34.299 agent.py[86] execute -> Find Control Timeout(1s): {Name: '文件传输助手', ControlType: ButtonControl}
