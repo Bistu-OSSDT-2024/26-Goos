@@ -43,7 +43,7 @@ python main.py
 
 ## 📣 致谢
 
-AI-Operating-Wechat的开发受到[self-Operating-Computer](https://github.com/OthersideAI/self-operating-computer)项目的启发，欢迎大家也关注这个项目
+修改自AI-Operating-Wechat，感谢作者的努力。
 
 
 
