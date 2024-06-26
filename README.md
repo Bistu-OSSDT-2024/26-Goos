@@ -45,13 +45,6 @@ python main.py
 
 AI-Operating-Wechat的开发受到[self-Operating-Computer](https://github.com/OthersideAI/self-operating-computer)项目的启发，欢迎大家也关注这个项目
 
-## 🚀 未来目标
-
-希望能聚集志同道合的朋友，一同加入AI-Operating-Anything生态，真正让大模型的Agent能力抵达生活的每一处！QQ交流群二维码：   
-
-<div align="left">
-<img src="https://github.com/ethanhwang1024/AI-Operating-Wechat/assets/89822193/356a069b-416b-4a14-a576-dd7e93e56059"  width = "220" height = "260",caption='' />
-</div>
 
 
 
