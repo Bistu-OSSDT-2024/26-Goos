@@ -1,4 +1,4 @@
-# 可以定制的AI自动回复工具
+#customizable AI automatic response tool
 
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GNU-dfd.svg"></a>
