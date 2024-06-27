@@ -1,4 +1,4 @@
-# 大学生的AI自动回复工具
+# 可以自定义的AI自动回复工具
 
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GNU-dfd.svg"></a>
