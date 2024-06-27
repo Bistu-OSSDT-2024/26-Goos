@@ -1,4 +1,4 @@
-#customizable AI automatic response tool
+# Personalized AI ReplyBot
 
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GNU-dfd.svg"></a>
@@ -7,7 +7,7 @@
     <a href=""><img src="https://img.shields.io/badge/os-windows-pink.svg"></a>
 </p>
 
-🌟 专为忙碌的你打造
+🌟 个性化AI回复机器人————专为忙碌的你打造
 你是不是常常因为期末忙碌的学习错过朋友的微信？是不是因为老板的压榨常常加班而在微信失联？
 不用担心，这款工具能够帮你自动回复微信消息，让你在学习、工作与生活之间游刃有余。
 💡 功能特点
